@@ -1,4 +1,5 @@
-import Kanban from "./kanban.js";   
+import Kanban from "./kanban.js";
+
 
 const todo = document.querySelector(".cards.todo");
 const pending = document.querySelector(".cards.pending");
