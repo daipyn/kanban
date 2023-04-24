@@ -114,4 +114,3 @@ function columncount(){
     const completed=document.querySelector("span.completed");
     completed.textContent=data[2].tasks.length;
 }
-
